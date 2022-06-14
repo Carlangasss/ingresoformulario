@@ -63,6 +63,6 @@ body {
     text-decoration: none;
     margin-bottom: 16px;
 }
-.form-login button:hover{
+.boton:hover{
     background: rgba(179, 97, 97, 0.548);
 }
